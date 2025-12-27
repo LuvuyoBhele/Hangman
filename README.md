@@ -61,5 +61,3 @@ hangman-game/
 ## 🤝 Contributing
 Pull requests are welcome! If you’d like to add new features or improve the code, please fork the repo and submit a PR.
 
-
-👉 Would you like me to also **write a sample `names_hangman.py` file** for you, so your README includes a ready-to-use word list? That way, anyone cloning your repo can run the game immediately without setup issues.
