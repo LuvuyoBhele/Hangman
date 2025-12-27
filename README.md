@@ -51,7 +51,6 @@ hangman-game/
 │── README.md          # Project documentation
 ```
 
----
 
 ## ✨ Future Improvements
 - Add difficulty levels (easy, medium, hard)
